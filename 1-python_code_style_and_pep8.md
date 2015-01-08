@@ -1,4 +1,6 @@
-Python代码风格和PEP8
+##Python代码风格和PEP8
+
+—*这篇不全，不好用！！！*
 
 PEP8描述了Python的代码风格。Python开发成员共同遵守这个文档风格，可以最大程度保持Python代码风格的一致，易于阅读，易于交流。
 
@@ -133,6 +135,8 @@ Ubuntu上的安装可以用命令
 
 
 
+
 参考文章：
 
 1. http://www.blogjava.net/lincode/archive/2011/02/02/343859.html
+2. http://www.douban.com/note/134971609/
